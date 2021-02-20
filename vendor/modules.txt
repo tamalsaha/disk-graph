@@ -1,0 +1,15 @@
+# github.com/RoaringBitmap/roaring v0.5.5
+## explicit
+github.com/RoaringBitmap/roaring
+# github.com/glycerine/go-unsnap-stream v0.0.0-20181221182339-f9677308dec2
+github.com/glycerine/go-unsnap-stream
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/mschoch/smat v0.0.0-20160514031455-90eadee771ae
+github.com/mschoch/smat
+# github.com/philhofer/fwd v1.0.0
+github.com/philhofer/fwd
+# github.com/tinylib/msgp v1.1.0
+github.com/tinylib/msgp/msgp
+# github.com/willf/bitset v1.1.10
+github.com/willf/bitset
